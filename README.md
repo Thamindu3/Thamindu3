@@ -1,6 +1,6 @@
 <div align="center">
   
-# 💫 About Me
+#   About Me
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Thamindu+Samarathunga;Frontend+Developer+%7C+TD3;From+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0;Welcome+to+my+GitHub+%E2%9C%A8" alt="Typing SVG" />
 
